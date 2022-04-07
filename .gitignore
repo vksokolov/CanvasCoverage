@@ -3,3 +3,7 @@ Logs
 Packages
 ProjectSettings
 Temp
+.idea
+obj
+*.sln
+*.csproj
